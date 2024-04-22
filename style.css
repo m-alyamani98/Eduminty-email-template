@@ -1,0 +1,15 @@
+body {
+  margin: 20px;
+}
+.curved {
+  position: relative;
+  background: linear-gradient(180deg, #3117E4 0%, #221093 100%);
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: inline-flex;
+  width : 100%;
+  height : 50vh;
+  border-bottom-left-radius: 50% 44%;
+  border-bottom-right-radius: 50% 44%;
+}
